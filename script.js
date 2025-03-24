@@ -14,7 +14,7 @@ function checkPassword() {
 
 // Countdown Logic
 function startCountdowns() {
-    const birthdayDate = new Date("2023-03-25").getTime();
+    const birthdayDate = new Date("2025-03-25").getTime();
     const anniversaryDate = new Date("2025-04-20").getTime();
 
     const birthdayButton = document.getElementById("birthday-button");
